@@ -7,7 +7,7 @@ import { styles } from "./styles";
 export const Copyright: React.FC = () => {
   return (
     <View>
-      <Text style={styles.text}>Feito com ♥ pela Rocketseat</Text>
+      <Text style={styles.text}>Feito com ♥ pelo Was</Text>
     </View>
   );
 };
